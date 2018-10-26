@@ -5,4 +5,5 @@
 /* /:splat 200! Role=*
 
 # Else, redirect them to login portal site.
-/* https://okta-test.netlify.com/?site=https://vibrant-rosalind-6064ca.netlify.com/:splat 302!
+# /* https://okta-test.netlify.com/?site=https://vibrant-rosalind-6064ca.netlify.com/:splat 302!
+/* https://thumbtack.okta.com/?site=https://vibrant-rosalind-6064ca.netlify.com/:splat 302!
